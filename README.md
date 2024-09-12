@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and Spanish
 - 📫 How to reach me @ItzVxlr (on Discord)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Eating food is my passion Xp
+- ⚡ Fun fact: Eating food is my passion XD
 
 <!---
 WhosVxlr/WhosVxlr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
